@@ -1,10 +1,10 @@
 Algoritmo "Vestibular"
-// Disciplina   : [Linguagem e LÛgica de ProgramaÁ„o]
+// Disciplina   : [Linguagem e L√≥gica de Programa√ß√£o]
 // Professor   : Gustavo Guanabara
-// DescriÁ„o   : Diz o nome e a nota do vestibular dos alunos e informa quantos
-// deles foram aprovados, de que turma s„o, qual a maior nota em cada turma e
+// Descri√ß√£o   : Diz o nome e a nota do vestibular dos alunos e informa quantos
+// deles foram aprovados, de que turma s√£o, qual a maior nota em cada turma e
 // qual aluno teve a maior nota de todas.
-// Autor(a)    : Elis GonÁalves Mendes
+// Autor(a)    : Elis Gon√ßalves Mendes
 // Data atual  : 22/08/2022
 Var
 Contador, TotalAprovados, QtdTurmaA, QtdTurmaB, QtdTurmaC, QtdTurmaD: Inteiro
@@ -19,7 +19,7 @@ EscrevaL ("        Escola Sapiens         ")
 EscrevaL ("-------------------------------")
 EscrevaL ("Turma A")
 Contador <- 1
-Enquanto (Contador <= 3) faca
+Enquanto (Contador <= 25) faca
          EscrevaL ("-------------------------------")
          EscrevaL ("Nome do aluno: ")
          Leia (Nome)
@@ -43,7 +43,7 @@ EscrevaL ("A quantidade de alunos aprovados da Turma A foi ", QtdTurmaA)
 EscrevaL ("-------------------------------")
 EscrevaL ("Turma B")
 Contador <- 1
-Enquanto (Contador <= 3) faca
+Enquanto (Contador <= 25) faca
          EscrevaL ("-------------------------------")
          EscrevaL ("Nome do aluno: ")
          Leia (Nome)
@@ -67,7 +67,7 @@ EscrevaL ("A quantidade de alunos aprovados da Turma B foi ", QtdTurmaB)
 EscrevaL ("-------------------------------")
 EscrevaL ("Turma C")
 Contador <- 1
-Enquanto (Contador <= 3) faca
+Enquanto (Contador <= 25) faca
          EscrevaL ("-------------------------------")
          EscrevaL ("Nome do aluno: ")
          Leia (Nome)
@@ -91,7 +91,7 @@ EscrevaL ("A quantidade de alunos aprovados da Turma C foi ", QtdTurmaC)
 EscrevaL ("-------------------------------")
 EscrevaL ("Turma D")
 Contador <- 1
-Enquanto (Contador <= 3) faca
+Enquanto (Contador <= 25) faca
          EscrevaL ("-------------------------------")
          EscrevaL ("Nome do aluno: ")
          Leia (Nome)
