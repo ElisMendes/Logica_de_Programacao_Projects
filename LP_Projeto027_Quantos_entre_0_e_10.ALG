@@ -1,9 +1,9 @@
 Algoritmo "Quantos entre 0 e 10"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Gustavo Guanabara
-// Descrição   : Diz quantos valores entre 0 e 10 foram digitados e a soma dos
-// valores ímpares.
-// Nome do(a) aluno(a): Elis Gonçalves Mendes
+// DescriÃ§Ã£o   : Diz quantos valores entre 0 e 10 foram digitados e a soma dos
+// valores Ã­mpares.
+// Nome do(a) aluno(a): Elis GonÃ§alves Mendes
 // Data atual  : 29/08/2022
 
 Var
@@ -23,8 +23,6 @@ Inicio
            FimSe
       FimPara
       EscrevaL ("Ao todo foram ", Tot010, " valores entre 0 e 10")
-      EscrevaL ("Nesse intervalo, a soma de ímpares foi ", SImp)
+      EscrevaL ("Nesse intervalo, a soma de Ã­mpares foi ", SImp)
 
 Fimalgoritmo
-
-itmo "Detector de Pesado"
